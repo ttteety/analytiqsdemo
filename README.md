@@ -1,1 +1,1 @@
-# analytiqsdemo
+# Analytics Demo
